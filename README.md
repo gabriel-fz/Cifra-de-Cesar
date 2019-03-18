@@ -4,3 +4,6 @@ Ao executar esse código em python, é aberta uma janela onde é possível selec
 Na janela é possível também observar o conteúdo do arquivo inicial e o conteúdo do arquivo final depois de criptografar/descriptografar.
 
 Ao final, ao clicar no botão salvar, o conteúdo criptografado/descriptografado é salvo em um arquivo txt no mesmo local do arquivo inicial, em seu computador.
+
+# OBS:
+Esta é a primeira versão do código, ele ainda não foi refatorado!
